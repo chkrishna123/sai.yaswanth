@@ -90,6 +90,11 @@
 #     return base ** exponent
 # print(power(2, 3))
 
+# def full_name(first, middle, last):  #s
+#     return first + " " + middle + " " + last
+# print(full_name("Krishna", "Sai", "yaswanth"))
+
+
 
 
 
